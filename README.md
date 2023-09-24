@@ -2,7 +2,7 @@
 ### 😊
 Dataset Link: <a href="https://catalog.data.gov/dataset/consumer-complaint-database"> Consumer Complain Dataset</a><br>
 The key concept of this Project is NLP(Natural language processing)
-## Task 6. Data Science example.
+## Task 6. Data Science Project on Text Classification: 
 
 Perform a Text Classification on consumer complaint dataset into following categories.
 0 Credit reporting, repair, or other
