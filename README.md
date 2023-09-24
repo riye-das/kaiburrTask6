@@ -23,6 +23,6 @@ Steps to be followed -
 2. Downlode the DataSet From the above Link and save it.
 3. Install the required dependencies using pip install.
 4. Explore the Jupyter notebooks in the notebooks/ directory to understand the project workflow.
-5. Use the prediction_script.py script to make predictions on new data.
+5. At the end of the project you can give your input in "complaint" variable to make  new predictions.
 6. Refer to the "Performing text classification on a consumer complaint dataset involves" Doc file for detailed instructions and explanations from the above.
 
