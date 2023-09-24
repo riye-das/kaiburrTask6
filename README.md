@@ -1,7 +1,7 @@
 # kaiburrTask6
 ### 😊
 Dataset Link: <a href="https://catalog.data.gov/dataset/consumer-complaint-database"> Consumer Complain Dataset</a><br>
-Excute the whole program using Juypter notebook and the elobarated document file is added above (File name: Performing text classification on a consumer complaint dataset involves).
+The key concept of this Project is NLP(Natural language processing)
 ## Task 6. Data Science example.
 
 Perform a Text Classification on consumer complaint dataset into following categories.
@@ -16,3 +16,13 @@ Steps to be followed -
 4. Comparison of model performance
 5. Model Evaluation
 6. Prediction
+
+## Follow these steps to run the text classification project:
+
+1. Clone the repository to your local machine.
+2. Downlode the DataSet From the above Link and save it.
+3. Install the required dependencies using pip install -r requirements.txt.
+4. Explore the Jupyter notebooks in the notebooks/ directory to understand the project workflow.
+5. Use the prediction_script.py script to make predictions on new data.
+6. Refer to the "Performing text classification on a consumer complaint dataset involves" Doc file for detailed instructions and explanations from the above.
+
