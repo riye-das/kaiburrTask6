@@ -21,7 +21,7 @@ Steps to be followed -
 
 1. Clone the repository to your local machine.
 2. Downlode the DataSet From the above Link and save it.
-3. Install the required dependencies using pip install -r requirements.txt.
+3. Install the required dependencies using pip install.
 4. Explore the Jupyter notebooks in the notebooks/ directory to understand the project workflow.
 5. Use the prediction_script.py script to make predictions on new data.
 6. Refer to the "Performing text classification on a consumer complaint dataset involves" Doc file for detailed instructions and explanations from the above.
